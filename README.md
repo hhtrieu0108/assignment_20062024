@@ -30,6 +30,10 @@ having TransactionTime < 100000;
 - #### Having result 
 ![alt text](image-2.png)
 
+- #### EXPLAIN ANALYZE
+![alt text](image-7.png)
+
+
 ### More complex query
 - #### Using Where
 ```sql
@@ -53,6 +57,9 @@ ORDER BY  CustomerID, TransactionTime;
 ```
 - #### Having result 
 ![alt text](image-4.png)
+
+- #### EXPLAIN ANALYZE
+![alt text](image-6.png)
 
 ### => So the performance of `where` and `having` is up to the `complex of the query`. If it's `complex`, sure that the `where` is better,faster than the `having`. But in the very `simple` query. It's `not really difference`. 
 ### => Using `where` or `having` and how to optimize the performance is up to your `problem`.
