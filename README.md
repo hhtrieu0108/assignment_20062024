@@ -1,6 +1,6 @@
 # Ex1: Tìm structured dataset có 1,000,000 dòng; insert vào 1 hoặc nhiều tables. Thực hiện các câu query có cùng output với việc sử dụng where, group by, having khác nhau. Đo và so sánh thời gian chạy!
 
-[Processing and Import code link]("https://github.com/hhtrieu0108/assignment_20062024/blob/main/Import_to_postgres.ipynb")
+[Processing and Import code link](https://github.com/hhtrieu0108/assignment_20062024/blob/main/Import_to_postgres.ipynb)
 
 ## Dataset : Banking_Transactions
 ### Number of columns : 9
