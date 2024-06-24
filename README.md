@@ -63,5 +63,5 @@ ORDER BY  CustomerID, TransactionTime;
 - #### EXPLAIN ANALYZE
 ![alt text](image-6.png)
 
-### => So the performance of `where` and `having` is up to the `complex of the query`. If it's `complex`, sure that the `where` is better,faster than the `having`. But in the very `simple` query. It's `not really difference`. 
+### => So the performance of `where` and `having` is up to the `complex of the query`. If it's `complex`, sure that the `where` is better, faster than the `having`. But in the very `simple` query. It's `not really different`. 
 ### => Using `where` or `having` and how to optimize the performance is up to your `problem`.
