@@ -2,7 +2,7 @@
 
 ## Dataset : Banking_Transactions
 ### Number of columns : 9
-### Number of rows : 1048567
+### Number of rows : 1.048.567
 ![alt text](image-5.png)
 
 ## `! Note :` `The results of having and where are the same`
